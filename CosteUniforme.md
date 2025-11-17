@@ -1,4 +1,5 @@
 # Algoritmo de búsqueda por coste uniforme
+![Mapa](/img/Busquedas_OU-CAL.PNG)  
 Prioridades:
 1. Menor coste
 2. FIFO
