@@ -1,4 +1,5 @@
 # Algoritmo de búsqueda en profundidad
+![MapaIE](img/MapaIE.PNG)  
 Prioridad de movimientos: ↑ ↓  ← →  
 Método: LIFO
 ## Sin límite de profundidad
@@ -33,7 +34,8 @@ F = {A, F, K, N}
 
 Solución = {i, B, C, E, G, H, I, J, L, M, e}
 
-![Diagrama 1](/img/Diagrama1.1.png)
+![Diagrama 1](/img/Diagrama1.1.png)  
+![MapaIE_Sol1](img/MapaIE_SolSinLimite.PNG)  
 
 ## Con límite de profundidad 5
 F = {**i**}  →  Test(i)  → C = {i}
@@ -71,7 +73,8 @@ F = {I, M, Ñ}
 
 Solución = {i, A, J, K, L, N, e}
 
-![Diagrama 2](/img/Diagrama1.2.png)
+![Diagrama 2](/img/Diagrama1.2.png)  
+![MapaIE_Sol2](img/MapaIE_SolConLimite.PNG)  
 
 ## Cuestiones
 **Describe qué sucede.**  
