@@ -1,4 +1,5 @@
 # Algoritmos A y A*
+![MapaIE](img/MapaIE.PNG)  
 Prioridades:
 1. Menor evaluación
 2. FIFO
@@ -49,6 +50,7 @@ Solución = { $^{0}$ i 4 $^{4}$, $^{1}$ A 4 $^{3}$, $^{3}$ D 7 $^{4}$, $^{4}$ G 
 Coste total = 9
 
 ![Diagrama 3](/img/Diagrama1.4.png)
+![MapaIE_Sol3](img/MapaIE_SolAStar.PNG)  
 
 ## Cuestiones
 
