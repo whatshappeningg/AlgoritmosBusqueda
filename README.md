@@ -1,4 +1,4 @@
-# UD2: Algoritmos de búsqueda
+# Algoritmos de búsqueda
 ## Conceptos básicos
 
 **Problema:**
@@ -48,7 +48,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Algoritmos:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Método de ascensión de colinas  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Búsqueda por el mejor nodo  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Algoritmo A y A* ([Ejercicio](/A_A*.md))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Algoritmo A y A* ([Ejercicio](/A_AStar.md))
 
 
 
